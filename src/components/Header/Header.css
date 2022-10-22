@@ -1,0 +1,20 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color:cornflowerblue;
+}
+.navitems{
+    text-decoration: none;
+}
+
+.active{
+    color: white;
+    background-color: mediumturquoise;
+    padding: 0.3rem 0.5rem;
+    border-radius: 0.3rem;
+    text-decoration: none;
+
+}
